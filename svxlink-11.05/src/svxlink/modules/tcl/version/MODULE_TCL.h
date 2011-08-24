@@ -1,0 +1,3 @@
+#ifndef MODULE_TCL_VERSION
+#define MODULE_TCL_VERSION "0.3.0"
+#endif /* MODULE_TCL_VERSION */

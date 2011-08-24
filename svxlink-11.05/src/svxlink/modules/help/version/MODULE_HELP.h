@@ -1,0 +1,3 @@
+#ifndef MODULE_HELP_VERSION
+#define MODULE_HELP_VERSION "0.7.0"
+#endif /* MODULE_HELP_VERSION */

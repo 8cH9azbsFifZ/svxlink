@@ -1,0 +1,3 @@
+#ifndef SVXLINK_VERSION
+#define SVXLINK_VERSION "0.12.0"
+#endif /* SVXLINK_VERSION */

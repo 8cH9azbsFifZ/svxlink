@@ -1,0 +1,3 @@
+#ifndef REMOTE_TRX_VERSION
+#define REMOTE_TRX_VERSION "0.3.0"
+#endif /* REMOTE_TRX_VERSION */
