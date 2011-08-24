@@ -1,2 +1,9 @@
-libsigc++-2.0-dev 
+apt-get install libqt3-mt-dev
+
+apt-get install g++ make libsigc++-1.2-dev libgsm1-dev libpopt-dev tcl8.4-dev libgcrypt-dev libspeex-dev libasound2-dev alsa-utils
+
+libgcrypt11-dev
+apt-get install tcl8.4-dev 
+
+apt-get install libsigc++-1.2-5c2  libsigc++-1.2-dev ^C
 
