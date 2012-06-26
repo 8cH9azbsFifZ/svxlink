@@ -7,3 +7,7 @@ apt-get install tcl8.4-dev
 
 apt-get install libsigc++-1.2-5c2  libsigc++-1.2-dev ^C
 
+
+
+port install libsigcxx2
+
